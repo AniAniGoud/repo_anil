@@ -1,1 +1,11 @@
 2023-07-11 14:31:54,523 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-11 14:57:12,372 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-07-11 14:58:02,479 [Worker-24: Creating project "repo_anil"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: repo_anil:repo_anil:0.0.1-SNAPSHOT @ C:\anil2\repo_anil\repo_anil\pom.xml.
+2023-07-11 14:58:02,740 [Worker-24: Creating project "repo_anil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /repo_anil/src/main/java
+2023-07-11 14:58:02,741 [Worker-24: Creating project "repo_anil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /repo_anil/src/main/resources
+2023-07-11 14:58:02,742 [Worker-24: Creating project "repo_anil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /repo_anil/src/test/java
+2023-07-11 14:58:02,742 [Worker-24: Creating project "repo_anil"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /repo_anil/src/test/resources
+2023-07-11 14:58:03,945 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-11 14:58:03,949 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-07-11 14:58:03,952 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-11 14:58:03,953 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
